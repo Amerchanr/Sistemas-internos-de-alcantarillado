@@ -49,6 +49,9 @@ promoviendo un modelo sostenible y replicable para sistemas de bombeo similares.
 ![Image](https://github.com/user-attachments/assets/03a44c93-02a1-4531-9b3e-51724e1e66f4)
 
 ## Diagrama de Caja Negra
-<img width="362" alt="Image" src="https://github.com/user-attachments/assets/1fe7b3c2-e333-49cc-823d-9c679954f8bb" />
+![Image](https://github.com/user-attachments/assets/cd5f5b39-e69a-422c-b5f6-341ff48bae90)
 
 ## Diagrama Tecnologico
+
+
+![Image](https://github.com/user-attachments/assets/dcefa610-8b0d-4774-b767-933c8b0275c6)

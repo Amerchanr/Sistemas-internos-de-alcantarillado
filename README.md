@@ -46,12 +46,12 @@ promoviendo un modelo sostenible y replicable para sistemas de bombeo similares.
 
 ## Diagrama de Flujo
 
-![Image](https://github.com/user-attachments/assets/af8b616b-28ee-4ecb-9675-7eaed33a9767)
+![Image](https://github.com/user-attachments/assets/681440e5-dc70-4121-a77b-563b01781457)
 
 ## Diagrama de Caja Negra
-![Image](https://github.com/user-attachments/assets/cd5f5b39-e69a-422c-b5f6-341ff48bae90)
+
+![Image](https://github.com/user-attachments/assets/c34c3469-ad0d-4e1a-af32-f0d569c53044)
 
 ## Diagrama Tecnologico
 
-
-![Image](https://github.com/user-attachments/assets/dcefa610-8b0d-4774-b767-933c8b0275c6)
+![Image](https://github.com/user-attachments/assets/d69e9efc-27d2-4eeb-8a81-6c07b16ee7c7)

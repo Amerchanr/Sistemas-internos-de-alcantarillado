@@ -54,3 +54,8 @@ promoviendo un modelo sostenible y replicable para sistemas de bombeo similares.
 ## Diagrama Tecnologico
 
 ![Image](https://github.com/user-attachments/assets/d69e9efc-27d2-4eeb-8a81-6c07b16ee7c7)
+
+
+### Para Mayor Información revisar el siguiente documento pdf
+[Ver documento PDF](./docunmentacion.pdf)
+
